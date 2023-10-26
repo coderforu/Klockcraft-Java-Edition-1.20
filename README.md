@@ -1,2 +1,3 @@
-# Klockcraft-1.20
-real minecraft 1.20 that will be ported to browser soon!
+# Klockcraft Java Edition 1.20
+
+### Will be ported to browser soon!
